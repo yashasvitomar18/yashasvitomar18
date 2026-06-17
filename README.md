@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌿 Hello, I'm Yashasvi Tomar, Currently a Third year Electronics Engineering student at Madhav Institute of Technology and Science (MITS), Gwalior.<br><br>✨ With a passion for Software Development and AI/ML 🌐 as my compass, I am dedicated to mastering Data Structures and Algorithms (DSA) on this exciting journey.📊<br><br>🚀I enjoy building projects, contributing to open-source initiatives, and exploring innovative solutions to real-world problems.<br><br>📅 I share insights of my experience, documenting my learning journey and discoveries. You're invited to join me on LinkedIn:https://www.linkedin.com/in/yashasvitomar  for this exciting path of exploration and growth!<br><br>📩 Get in touch: yt.yashasvii@gmail.com
+🌿 Hello, I'm Yashasvi Tomar, Currently a Third year Electronics Engineering student at Madhav Institute of Technology and Science (MITS), Gwalior.<br><br>✨ With a passion for Software Development and AI/ML 🌐 as my compass, I am dedicated to mastering Data Structures and Algorithms (DSA) on this exciting journey.📊<br><br>🚀I enjoy building projects, contributing to open-source initiatives, and exploring innovative solutions to real-world problems.<br><br>📅 I share insights of my experience, documenting my learning journey and discoveries. 
+📩 Get in touch: yt.yashasvii@gmail.com
 
 
 ## 🌐 Socials:
