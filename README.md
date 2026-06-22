@@ -48,6 +48,5 @@
 | 🚢 Titanic Survival Prediction | Predicts passenger survival using classification algorithms and data analysis. | Python, Pandas, Scikit-Learn |
 | 🎬 Netflix Data Analysis | SQL-based analysis of Netflix movies and TV shows dataset. | SQL, PostgreSQL |
 ---
-[![](https://komarev.com/ghpvc/?username=yashasvitomar18&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=yashasvitomar18&icon=0&color=12)]
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
