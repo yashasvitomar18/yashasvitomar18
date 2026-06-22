@@ -40,13 +40,13 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-## 🚀 Featured Projects
+## 🚀 Top Projects
 
-<a href="https://github.com/yashasvitomar18/Heart-Disease-Risk-Predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashasvitomar18&repo=Heart-Disease-Risk-Predictor&theme=dark" />
-</a>
-![](https://github-contributor-stats.vercel.app/api?username=yashasvitomar18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| ❤️ Heart Disease Risk Predictor | ML model that predicts heart disease risk based on patient health parameters with an interactive Streamlit UI. | Python, Pandas, NumPy, Scikit-Learn, Streamlit |
+| 🚢 Titanic Survival Prediction | Predicts passenger survival using classification algorithms and data analysis. | Python, Pandas, Scikit-Learn |
+| 🎬 Netflix Data Analysis | SQL-based analysis of Netflix movies and TV shows dataset. | SQL, PostgreSQL |
 ---
 [![](https://komarev.com/ghpvc/?username=yashasvitomar18&icon=0&color=12)](https://visitcount.itsvg.in)
 
