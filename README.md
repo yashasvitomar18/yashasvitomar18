@@ -41,7 +41,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
+## 🚀 Top Projects
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| ❤️ Heart Disease Risk Predictor | ML model that predicts heart disease risk based on patient health parameters with an interactive Streamlit UI. | Python, Pandas, NumPy, Scikit-Learn, Streamlit |
+| 🚢 Titanic Survival Prediction | Predicts passenger survival using classification algorithms and data analysis. | Python, Pandas, Scikit-Learn |
+| 🎬 Netflix Data Analysis | SQL-based analysis of Netflix movies and TV shows dataset. | SQL, PostgreSQL |
 ![](https://github-contributor-stats.vercel.app/api?username=yashasvitomar18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
