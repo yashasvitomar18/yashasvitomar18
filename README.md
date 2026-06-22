@@ -40,19 +40,11 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 ## 🚀 Featured Projects
 
-### ❤️ Heart Disease Risk Predictor
-- Predicts heart disease risk using Machine Learning.
-- Interactive Streamlit Web App.
-- Logistic Regression model with feature scaling.
-- Tech: Python, Pandas, NumPy, Scikit-Learn, Streamlit.
-
-### 🚢 Titanic Survival Prediction
-- Classification model to predict passenger survival.
-- Compared multiple ML algorithms.
-- Tech: Python, Pandas, Scikit-Learn.
+<a href="https://github.com/yashasvitomar18/Heart-Disease-Risk-Predictor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashasvitomar18&repo=Heart-Disease-Risk-Predictor&theme=dark" />
+</a>
 ![](https://github-contributor-stats.vercel.app/api?username=yashasvitomar18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
