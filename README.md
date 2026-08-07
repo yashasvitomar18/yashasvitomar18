@@ -147,7 +147,7 @@ Machine learning system that detects fraudulent financial transactions using a t
 </td>
 <td width="50%" valign="top">
 
-### ❤️ [Heart Disease Risk Predictor](https://github.com/yashasvitomar18/Heart-Disease-Risk-Predictor)
+### ❤️ [Heart Disease Risk Predictor](https://heart-disease-risk-predictorgit-gh7rwybjhsrcodifjeysru.streamlit.app/)
 Machine learning application that predicts heart disease risk from patient health parameters with a Streamlit dashboard.
 
 `Python` `Pandas` `Scikit-Learn` `Streamlit`
@@ -185,10 +185,6 @@ Machine learning application that predicts heart disease risk from patient healt
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
 
 <div align="center">
-
-<i>"Code is the closest thing we have to magic — write it like someone's future depends on it."</i>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer"/>
 
