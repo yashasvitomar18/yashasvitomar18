@@ -111,11 +111,7 @@ Building AI-powered and full-stack products, with a growing footprint in open so
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashasvitomar18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasvitomar18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F5AF0&line=2CB67D&point=ffffff" width="49%"/>
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashasvitomar18&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4" />
-
-<br/>
 
 
 
