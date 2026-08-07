@@ -139,7 +139,7 @@ ML-powered web application that predicts mental health risk using a trained mode
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Fraud Detection Predictor](https://github.com/yashasvitomar18/Fraud-Detection-Predictor)
+### 🛡️ [Fraud Detection Predictor](https://frauddetectionpredictor-huxtxgrnpxfjbjyybqhuu2.streamlit.app/)
 Machine learning system that detects fraudulent financial transactions using a trained classification model with an interactive web interface.
 
 `Python` `Scikit-Learn` `Streamlit`
