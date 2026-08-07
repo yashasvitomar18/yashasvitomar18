@@ -1,104 +1,207 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=E4405F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yashasvi+Tomar;Electronics+Engineering+Student;Software+%26+AI%2FML+Developer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi,%20I'm&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Yashasvi%20Tomar&descAlignY=52&descSize=28" width="100%"/>
+
+<img src="https://api.dicebear.com/9.x/bottts-neutral/svg?seed=yashasvitomar18&backgroundColor=0d1117&radius=50" width="140" style="border-radius:50%; border: 3px solid #7F5AF0;" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=2000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Hi,+I'm+Yashasvi+Tomar,+Electronics+Engineering+Student" alt="Typing SVG" />
+<p>
+Building AI-powered and full-stack products, with a growing footprint in open source and applied machine learning.
+</p>
+
+<a href="mailto:yt.yashasvii@gmail.com">
+  <img src="https://img.shields.io/badge/yt.yashasvii%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yashasvitomar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/yashasvitomar18">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashasvitomar18&label=Profile%20Views&color=e4405f&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/yashasvitomar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/just_yashasvi"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="mailto:yt.yashasvii@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
+
+## 🧭 About Me
+
+- 🎓 Third-year **Electronics Engineering** student at **Madhav Institute of Technology and Science (MITS), Gwalior**, focused on **Software Development** and **AI/ML**.
+- 🌱 Continuously learning, building, and improving my skills in Full Stack Development, AI/ML, and Data Structures & Algorithms.
+- 🌱 Actively contributing to open source through **GirlScript Summer of Code (GSSoC)**.
+- 💻 Interested in **AI, Machine Learning, Full Stack Development**, and sharpening **Data Structures & Algorithms**.
+- 🎯 Passionate about turning real-world problems into shipped, working software.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
 </p>
-
----
-
-### 🧭 About Me
-
-I'm a third-year Electronics Engineering student at **Madhav Institute of Technology and Science (MITS), Gwalior**, with a focus on **Software Development** and **AI/ML**. I'm currently sharpening my Data Structures & Algorithms (DSA) fundamentals while building and shipping full-stack and ML-powered projects.
-
-- 🔭 Currently building an **AI Video Assistant** with RAG (LangChain + Mistral + ChromaDB + Whisper)
-- 🌱 Actively contributing to open source through **GSSoC (GirlScript Summer of Code)**
-- 💡 Interested in pattern-based problem solving, not just memorization
-- 📫 Reach me at **yt.yashasvii@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Core**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 **Frontend & Backend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=white"/>
+</p>
 
-**AI / ML / Data**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+**AI / ML**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=plastic&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-7F5AF0?style=plastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=plastic&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=plastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white"/>
+</p>
+
+**Data Analytics**
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 **Databases & Tools**
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=yashasvitomar18&theme=dark&hide_border=false&count_private=false" height="165" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashasvitomar18&theme=dark&hide_border=false&layout=compact" height="165" />
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashasvitomar18&theme=dark&hide_border=false" />
+**Problem Solving**
+<p>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2CB67D?style=plastic&logo=leetcode&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashasvitomar18&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[AI Video Assistant (RAG)](https://github.com/yashasvitomar18/AI-Video-Assistant-With-RAG)** | AI assistant that transcribes and lets you chat with video/audio content — YouTube or uploads — using local Whisper transcription and a RAG pipeline over the content. | Streamlit, LangChain, Mistral AI, ChromaDB, Whisper |
-| **[Heart Disease Risk Predictor](https://github.com/yashasvitomar18/Heart-Disease-Risk-Predictor)** | ML model that predicts heart disease risk from patient health parameters, with an interactive Streamlit UI and animated risk gauge. | Python, Pandas, NumPy, Scikit-Learn, Streamlit |
-| **[Titanic Survival Prediction](https://github.com/yashasvitomar18/Titanic-Survival-Prediction)** | Predicts passenger survival using classification algorithms and exploratory data analysis. | Python, Pandas, Scikit-Learn |
-| **[Netflix Data Analysis](https://github.com/yashasvitomar18/Netflix-Data-Analysis)** | SQL-based analysis of the Netflix movies and TV shows dataset, surfacing content trends. | SQL, PostgreSQL |
-
-> ⚠️ Double-check these repo links match your actual GitHub repo names/URLs before publishing — I've filled in the ones I could confirm and used your naming convention for the rest.
-
----
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" />
-</p>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-⭐️ From [yashasvitomar18](https://github.com/yashasvitomar18) — always open to collaborating on interesting projects!
+<img src="https://github-readme-stats.shion.dev/api?username=yashasvitomar18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D&text_color=c9d1d9" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=yashasvitomar18&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" width="49%"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yashasvitomar18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashasvitomar18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F5AF0&line=2CB67D&point=ffffff" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashasvitomar18&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4" />
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/yashasvitomar18/yashasvitomar18/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> 💡 The snake animation needs a one-time GitHub Action set up on your profile repo (search "platane/snk" on GitHub) — it won't render until that workflow runs at least once.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 [AI Video Assistant (RAG)](https://github.com/yashasvitomar18/AI-Video-Assistant-With-RAG)
+AI assistant that transcribes YouTube videos or uploaded audio/video and lets you chat with the content using Whisper, LangChain, Mistral AI, and ChromaDB.
+
+`Streamlit` `LangChain` `Mistral AI` `ChromaDB` `Whisper`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Mental Health Predictor](https://github.com/yashasvitomar18/Mental-Health-Predictor)
+ML-powered web application that predicts mental health risk using a trained model and an interactive prediction interface.
+
+`Python` `Scikit-Learn` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Fraud Detection Predictor](https://github.com/yashasvitomar18/Fraud-Detection-Predictor)
+Machine learning system that detects fraudulent financial transactions using a trained classification model with an interactive web interface.
+
+`Python` `Scikit-Learn` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ [Heart Disease Risk Predictor](https://github.com/yashasvitomar18/Heart-Disease-Risk-Predictor)
+Machine learning application that predicts heart disease risk from patient health parameters with a Streamlit dashboard.
+
+`Python` `Pandas` `Scikit-Learn` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
+
+## 🏆 Achievement
+
+<table>
+<tr><td>🌟</td><td><b>GirlScript Summer of Code 2026 (GSSoC)</b> — Open Source Contributor</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/yashasvitomar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/yashasvitomar18">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:yt.yashasvii@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
+
+<div align="center">
+
+<i>"Code is the closest thing we have to magic — write it like someone's future depends on it."</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer"/>
 
 </div>
