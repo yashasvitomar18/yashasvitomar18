@@ -129,7 +129,7 @@ AI assistant that transcribes YouTube videos or uploaded audio/video and lets yo
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Mental Health Predictor](https://github.com/yashasvitomar18/Mental-Health-Predictor)
+### 🧠 [Mental Health Predictor](https://yashasvitomar18.github.io/Mindora-AI/)
 ML-powered web application that predicts mental health risk using a trained model and an interactive prediction interface.
 
 `Python` `Scikit-Learn` `Streamlit`
