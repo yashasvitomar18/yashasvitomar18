@@ -119,8 +119,9 @@ Building AI-powered and full-stack products, with a growing footprint in open so
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/yashasvitomar18/yashasvitomar18/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashasvitomar18/yashasvitomar18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 </div>
 
 > 💡 The snake animation needs a one-time GitHub Action set up on your profile repo (search "platane/snk" on GitHub) — it won't render until that workflow runs at least once.
