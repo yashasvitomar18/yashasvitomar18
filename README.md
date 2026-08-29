@@ -166,7 +166,7 @@ Machine learning application that predicts heart disease risk from patient healt
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
 
-## 🤝 Connect With Me
+## 🤝 Connect with Me
 
 <div align="center">
 
