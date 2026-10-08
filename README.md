@@ -27,7 +27,7 @@ Building AI-powered and full-stack products, with a growing footprint in open so
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=2&width=100%"/>
 
-## 🧭 About Me
+##  About Me
 
 - 🎓 Third-year **Electronics Engineering** student at **Madhav Institute of Technology and Science (MITS), Gwalior**, focused on **Software Development** and **AI/ML**.
 - 🌱 Continuously learning, building and improving my skills in Full Stack Development, AI/ML, and Data Structures & Algorithms.
